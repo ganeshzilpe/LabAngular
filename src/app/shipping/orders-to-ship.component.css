@@ -1,0 +1,19 @@
+.header-row {
+  border: 1px solid black;
+  font-weight: bold;
+  margin-right: 0px;
+  margin-left: 0px;
+  font-size: 20px;
+}
+
+
+.order-row {
+  border: 1px solid black;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.row {
+ margin-top: 5px;
+  margin-bottom: 5px;
+}
